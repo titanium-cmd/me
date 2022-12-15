@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <h1>Hi there 👋 I'm Ike</h1>
   <p>A fullstack mobile and web developer based in Accra, Ghana</p>
-  
+</div>
+
   <p>You can reach out via</p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/isaac-nkansah-60a409146/">
@@ -32,7 +33,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
