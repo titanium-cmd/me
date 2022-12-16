@@ -5,7 +5,7 @@
 		<p>A fullstack mobile and web developer based in Accra, Ghana</p>		
 	</div>
 </div>
-<div id="badges">
+<div id="badges" align="center">
 	<a href="https://www.linkedin.com/in/isaac-nkansah-60a409146/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
@@ -31,6 +31,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
+
+
+<div align="center">
+   <h3>:fire: My Stats :</h3>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=titanium-cmd&theme=dark" />
+</div>
+
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
